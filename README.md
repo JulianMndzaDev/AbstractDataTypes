@@ -3,5 +3,5 @@ Abstract data types that I learned or currently learning in CS 2605 - Data Struc
 
 To run the program, open command prompt
 - Go to the location of the file using cd (change directory)
-- Compile the file by typing javac SetGet.java then Enter
+- Compile the file by typing javac TestFileName.java then Enter
 - Type java TestFileName then press Enter
